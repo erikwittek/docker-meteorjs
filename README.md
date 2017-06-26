@@ -22,3 +22,7 @@ services:
   database:
     image: mongo
 ```
+
+## Deployment
+
+See [wiki](https://github.com/erikwittek/docker-meteorjs/wiki/sample-deployment) for sample deployment.
